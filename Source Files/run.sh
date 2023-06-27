@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 main='advancedquantum'
 
 pdflatex $main.tex
